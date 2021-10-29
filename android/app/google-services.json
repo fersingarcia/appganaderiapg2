@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671713713382",
+    "firebase_url": "https://app-produccion-ganadera-default-rtdb.firebaseio.com",
+    "project_id": "app-produccion-ganadera",
+    "storage_bucket": "app-produccion-ganadera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671713713382:android:cda645253bd4763757af27",
+        "android_client_info": {
+          "package_name": "com.app_produccion_ganadera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671713713382-004bghvj5rjia3ml04ckc9bcc647gvs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app_produccion_ganadera",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "671713713382-hslprkoijp06vvcttj6j7emkhh6bjqce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4TdDsu3q7U7YOvGwMkkh_ytvhRIDMvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671713713382-hslprkoijp06vvcttj6j7emkhh6bjqce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
